@@ -1,0 +1,482 @@
+{
+  "version": 5,
+  "classes": [
+    {
+      "class": 1,
+      "label": "வகுப்பு 1",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsKJoVdkf3joHgOShwkZM0Db"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsJa2Zbk5Tp1fe7C_ef5egh1"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsLfsyjtPip3UcsYpAaLjaEP"
+        },
+        {
+          "name": "சுற்றுச்சூழல்",
+          "icon": "🌿",
+          "id": "PL-mvKYotpGsJTnjihZ9adpKeBXiOUgL4Y"
+        }
+      ]
+    },
+    {
+      "class": 2,
+      "label": "வகுப்பு 2",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvYKYotpGsJeTlWY4T2eMq5HX2_Sy2Kn"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsKGpSiL5po9BN8HbEYnQE_m"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsJWAvl_WjbGWuYUnk3LDHwX"
+        },
+        {
+          "name": "சுற்றுச்சூழல்",
+          "icon": "🌿",
+          "id": "PL-mvKYotpGsKH_0xHWOfTkVdcemAUV3kS"
+        }
+      ]
+    },
+    {
+      "class": 3,
+      "label": "வகுப்பு 3",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsJFuQuCtcoeCqd8nZIrh0mb"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsL3DtjluUIUx5nFME3tBd-3"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsIz-5MH-bBeRQvktNM-pG_d"
+        },
+        {
+          "name": "சுற்றுச்சூழல்",
+          "icon": "🌿",
+          "id": "PL-mvKYotpGsKH_0xHWOfTkVdcemAUV3kS"
+        }
+      ]
+    },
+    {
+      "class": 4,
+      "label": "வகுப்பு 4",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "��",
+          "id": "PL-mvKYotpGsLTkvBaATwVapYvzhMOgbZv"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsJrj5F6rjnLOwlSYnSLbCY3"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsIz-5MH-bBeRQvktNM-pG_d"
+        },
+        {
+          "name": "அறிவியல்",
+          "icon": "🔬",
+          "id": "PL-mvKYotpGsJRKrV6efWZsPE_Fdit1-jH"
+        },
+        {
+          "name": "சமூக அறிவியல்",
+          "icon": "🌍",
+          "id": "PL-mvKYotpGsL7gW4waaCSY8CZar-FBIWT"
+        }
+      ]
+    },
+    {
+      "class": 5,
+      "label": "வகுப்பு 5",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsJmWSDX555FOAPnCttMPeIh"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsJqFKYXJB41xNjDrzhC9A4u"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsLfE1ThvXwdy6y0JxCtm7nz"
+        },
+        {
+          "name": "அறிவியல்",
+          "icon": "🔬",
+          "id": "PL-mvKYotpGsJRKrV6efWZsPE_Fdit1-jH"
+        },
+        {
+          "name": "சமூக அறிவியல்",
+          "icon": "🌍",
+          "id": "PL-mvKYotpGsKtFTvY2OvC5oYD3nvKnK1G"
+        }
+      ]
+    },
+    {
+      "class": 6,
+      "label": "வகுப்பு 6",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsIh73Fc8OB9uu9TqtAA-Lyx"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsKZwhwuksMCwaEe05uMaYkF"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsInEOElZAujTU0vyWcuaw5-"
+        },
+        {
+          "name": "அறிவியல்",
+          "icon": "🔬",
+          "id": "PL-mvKYotpGsKrCu_SdkzEllhVUmjnKvfP"
+        },
+        {
+          "name": "சமூக அறிவியல்",
+          "icon": "🌍",
+          "id": "PL-mvKYotpGsJhc3H2iZYR8GNJqZitoo5y"
+        }
+      ]
+    },
+    {
+      "class": 7,
+      "label": "வகுப்பு 7",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsKRqCuDijppo5UjmxlHsR2k"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsIb4t0D13HU7sWE1YpY1hg6"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsLdn__h9b4sd-jP1S-5nV4W"
+        },
+        {
+          "name": "அறிவியல்",
+          "icon": "🔬",
+          "id": "PL-mvKYotpGsJih7qNwWWHgU4IX1-mTEYo"
+        },
+        {
+          "name": "சமூக அறிவியல்",
+          "icon": "🌍",
+          "id": "PL-mvKYotpGsKHxCJG-_86GffBvy7Cl37G"
+        }
+      ]
+    },
+    {
+      "class": 8,
+      "label": "வகுப்பு 8",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsL70WJ27Uu0zLtxbv_2cJ54"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsLDjZMpKcZYSzFQr12apiKB"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsLi8wEXrwoRgmeSMUaQghtf"
+        },
+        {
+          "name": "அறிவியல்",
+          "icon": "🔬",
+          "id": "PL-mvKYotpGsJhVR7QXkvO-zAeTwYphtXC"
+        },
+        {
+          "name": "சமூக அறிவியல்",
+          "icon": "🌍",
+          "id": "PL-mvKYotpGsLpISmgBaPw6_iNaHZASuNn"
+        }
+      ]
+    },
+    {
+      "class": 9,
+      "label": "வகுப்பு 9",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsKgZR-XqgavV4jxg9ep9_jm"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsJEA3ao6Nlf0yNstDzexgZX"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsLn-FBb1X0gHhF7hfBB4Cl5"
+        },
+        {
+          "name": "அறிவியல்",
+          "icon": "🔬",
+          "id": "PL-mvKYotpGsKZlFqVLeeQK2KJ7ksDArFa"
+        },
+        {
+          "name": "சமூக அறிவியல்",
+          "icon": "��",
+          "id": "PL-mvKYotpGsKLMDUNSgmb1-99_pbFIgz-"
+        }
+      ]
+    },
+    {
+      "class": 10,
+      "label": "வகுப்பு 10 (SSLC)",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsKo08MqTMdR7YtM31JNVqIA"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsJTVApBAFshrlbRnqShzOy1"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsKh0JsEB2QR1Og-48EzFdcX"
+        },
+        {
+          "name": "அறிவியல்",
+          "icon": "🔬",
+          "id": "PL-mvKYotpGsIPOqgjSBk7Alc-ZydmxTvT"
+        },
+        {
+          "name": "சமூக அறிவியல்",
+          "icon": "🌍",
+          "id": "PL-mvKYotpGsKMFd3hPMzryonl_CLEiMxy"
+        }
+      ]
+    },
+    {
+      "class": 11,
+      "label": "வகுப்பு 11 (Plus One)",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsJ6v2kj0J74Eye7koYMrabd"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsIMmO5hK40WOp7gKjE8OzJh"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsIJBRGLMP6roVnMR8UHl8Gp"
+        },
+        {
+          "name": "இயற்பியல்",
+          "icon": "⚡",
+          "id": "PL-mvKYotpGsLv-xbFRd4rFiaqYjKbbktm"
+        },
+        {
+          "name": "வேதியியல்",
+          "icon": "🧪",
+          "id": "PL-mvKYotpGsKqzm6Ld8nZIrh0mbJFuQu"
+        },
+        {
+          "name": "தாவரவியல்",
+          "icon": "🌱",
+          "id": "PL-mvKYotpGsIf1dWQvj1JuGJHw8Cjxrxs"
+        },
+        {
+          "name": "விலங்கியல்",
+          "icon": "🦁",
+          "id": "PL-mvKYotpGsKN1heeYjTGhfnXhnP2Essy"
+        },
+        {
+          "name": "கணினி அறிவியல்",
+          "icon": "��",
+          "id": "PL-mvKYotpGsIQLtluXu-0aplV5qA8CGrR"
+        },
+        {
+          "name": "வணிகவியல்",
+          "icon": "📊",
+          "id": "PL-mvKYotpGsIFUVhDM3PyydpxoAWNWoPZ"
+        },
+        {
+          "name": "கணக்குப்பதிவியல்",
+          "icon": "🧾",
+          "id": "PL-mvKYotpGsLP8Kzy35jT0q1Rxr14ndBe"
+        },
+        {
+          "name": "பொருளியல்",
+          "icon": "💰",
+          "id": "PL-mvKYotpGsJ-luUjDpPwNJwWX-GqRdl-"
+        },
+        {
+          "name": "புள்ளியியல்",
+          "icon": "📈",
+          "id": "PL-mvKYotpGsI_uP_hOqwn7YC1zQk3xIBC"
+        },
+        {
+          "name": "வரலாறு",
+          "icon": "🏛",
+          "id": "PL-mvKYotpGsKvRqCuDijppo5UjmxlHsR3k"
+        },
+        {
+          "name": "புவியியல்",
+          "icon": "🗺",
+          "id": "PL-mvKYotpGsJmeizR4Y8bHWxCpROHqEbh"
+        },
+        {
+          "name": "அரசியல் அறிவியல்",
+          "icon": "⚖",
+          "id": "PL-mvKYotpGsJfGUpEJeA4yh3MW_LoihNY"
+        },
+        {
+          "name": "நுண்ணுயிரியல்",
+          "icon": "🔭",
+          "id": "PL-mvKYotpGsLZa_3_iiNg_rbnjUGndm4S"
+        }
+      ]
+    },
+    {
+      "class": 12,
+      "label": "வகுப்பு 12 (Plus Two)",
+      "subjects": [
+        {
+          "name": "தமிழ்",
+          "icon": "📖",
+          "id": "PL-mvKYotpGsI_FSSI00UzsIbzZ_4IMIiy"
+        },
+        {
+          "name": "English",
+          "icon": "🔤",
+          "id": "PL-mvKYotpGsIMsByPjp1S-0P7xvfG9-y8"
+        },
+        {
+          "name": "கணிதம்",
+          "icon": "📐",
+          "id": "PL-mvKYotpGsLJ7KHEibLSEXhOBNy3HG1g"
+        },
+        {
+          "name": "இயற்பியல்",
+          "icon": "⚡",
+          "id": "PL-mvKYotpGsJathGfw3ZFkrcKRis98yhH"
+        },
+        {
+          "name": "வேதியியல்",
+          "icon": "🧪",
+          "id": "PL-mvKYotpGsKqzm6Ld8nZIrh0mbJFuQv"
+        },
+        {
+          "name": "தாவரவியல்",
+          "icon": "🌱",
+          "id": "PL-mvKYotpGsLSSRN7g2PALHcEO0JK6552"
+        },
+        {
+          "name": "விலங்கியல்",
+          "icon": "🦁",
+          "id": "PL-mvKYotpGsIfxqZb5w7GDRoIBUoEwC-i"
+        },
+        {
+          "name": "கணினி அறிவியல்",
+          "icon": "💻",
+          "id": "PL-mvKYotpGsLHk6tOt4U4F9QuPFSe7Hp0"
+        },
+        {
+          "name": "கணினி தொழில்நுட்பம்",
+          "icon": "🖥",
+          "id": "PL-mvKYotpGsIt94DVp0a7zWhpIy8UKBMB"
+        },
+        {
+          "name": "வணிகவியல்",
+          "icon": "📊",
+          "id": "PL-mvKYotpGsIs7tl79uYxvw14TnDu5gzI"
+        },
+        {
+          "name": "கணக்குப்பதிவியல்",
+          "icon": "🧾",
+          "id": "PL-mvKYotpGsKJK7X79SbggboXGnmSLrt1"
+        },
+        {
+          "name": "பொருளியல்",
+          "icon": "💰",
+          "id": "PL-mvKYotpGsJ-luUjDpPwNJwWX-GqRdl-"
+        },
+        {
+          "name": "புள்ளியியல்",
+          "icon": "📈",
+          "id": "PL-mvKYotpGsKJK7X79SbggboXGnmSLrt2"
+        },
+        {
+          "name": "வரலாறு",
+          "icon": "🏛",
+          "id": "PL-mvKYotpGsJfGUpEJeA4yh3MW_LoihNY"
+        },
+        {
+          "name": "புவியியல்",
+          "icon": "🗺",
+          "id": "PL-mvKYotpGsKmeizR4Y8bHWxCpROHqEbc"
+        },
+        {
+          "name": "அரசியல் அறிவியல்",
+          "icon": "⚖",
+          "id": "PL-mvKYotpGsKfGUpEJeA4yh3MW_LoihNZ"
+        },
+        {
+          "name": "நுண்ணுயிரியல்",
+          "icon": "🔭",
+          "id": "PL-mvKYotpGsK5VyoEBfAotEcdF2Ae8VMI"
+        },
+        {
+          "name": "உயிர் வேதியியல்",
+          "icon": "🧬",
+          "id": "PL-mvKYotpGsL4oQOw9VCeOHX19B5zFOvh"
+        }
+      ]
+    }
+  ]
+}
